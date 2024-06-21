@@ -1,6 +1,6 @@
 # Backend Server for Submission Handling
 
-Greetings ! I am Nabanita Chatterjee and this project is a simple backend server built with Express and TypeScript. It provides APIs to save and retrieve form submissions, storing data in a JSON file.
+Greetings ! I am Nabanita Chatterjee and this project is a simple backend server built with Express and TypeScript. It provides APIs to save and retrieve form submissions, storing data in a JSON file for SlidelyAI Internship task. Thank you for the opportunity :)
 
 ## Prerequisites
 
