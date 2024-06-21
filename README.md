@@ -35,6 +35,8 @@ Greetings ! I am Nabanita Chatterjee and this project is a simple backend server
     npm start
     ```
 
+![image](https://github.com/Nabanita29/Slidely_Backend/assets/107246882/75dff79b-ab2f-483d-9408-4946116d8cf2)
+
 ## API Endpoints
 
 ### 1. Ping Endpoint
